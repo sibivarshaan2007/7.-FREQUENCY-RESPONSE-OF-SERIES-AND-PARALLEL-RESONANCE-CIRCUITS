@@ -56,6 +56,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **RESULT:**
 
+
 Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
 
 
